@@ -3,8 +3,6 @@ package ru.netology.extensibility;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
-import static org.junit.jupiter.api.Assertions.*;
-
 class TodosTest {
 
     @Test
